@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-main()
-{
+main{
    
-   printf("Hello, world\t");
+   printf("Hello, world\n");
 
 
 }
